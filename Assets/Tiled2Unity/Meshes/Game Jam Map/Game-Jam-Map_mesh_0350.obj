@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Game-Jam-Map_mesh_0350.obj'
+
+# Vertices (Count = 4)
+v -112 -16 0
+v -128 -16 0
+v -128 0 0
+v -112 0 0
+
+# Texture cooridinates (Count = 4)
+vt 0.9484692 0.5818712
+vt 0.964754 0.5818712
+vt 0.964754 0.6120452
+vt 0.9484692 0.6120452
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Game-Jam-Map_mesh_0350
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

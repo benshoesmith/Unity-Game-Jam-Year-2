@@ -1,0 +1,1579 @@
+[
+  {
+    "ID": 1,
+    "Type": 0,
+    "Rarity": 4,
+    "Stats": {
+      "Strenght": 14,
+      "Dexterity": 1,
+      "Intellect": 5,
+      "Holy": 10,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Excalibur",
+    "UsageDescription": "",
+    "Description": "A sword WOWOWO Best Sword EU BTW",
+    "UsageScript": "",
+    "Slug": "gold_sword"
+  },
+  {
+    "ID": 2,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 20,
+    "Title": "Golden Potion",
+    "UsageDescription": "Restores 150HP instantly.",
+    "Description": "A Golden potion that for some reason looks like a gold sword WOW!",
+    "UsageScript": "",
+    "Slug": "gold_sword"
+  },
+  {
+    "ID": 3,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 10,
+      "Dexterity": 23,
+      "Intellect": 17,
+      "Holy": 3,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Razorleaf Bow",
+    "UsageDescription": "",
+    "Description": "A magical bow given to me by one of the last ents in existance.",
+    "UsageScript": "",
+    "Slug": "razorleaf_bow"
+  },
+  {
+    "ID": 4,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 5,
+      "Dexterity": 2,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Training Sword",
+    "UsageDescription": "",
+    "Description": "A blunt sword used for training the young knights.",
+    "UsageScript": "",
+    "Slug": "training_sword"
+  },
+  {
+    "ID": 5,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 2,
+      "Dexterity": 5,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Training Bow",
+    "UsageDescription": "",
+    "Description": "A flimsy bow used to train archers.",
+    "UsageScript": "",
+    "Slug": "training_bow"
+  },
+  {
+    "ID": 6,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 5,
+      "Dexterity": 2,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Cracked Staff",
+    "UsageDescription": "",
+    "Description": "A cracked staff found in the Sanctuary.",
+    "UsageScript": "",
+    "Slug": "cracked_staff"
+  },
+  {
+    "ID": 7,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Bucket of Water",
+    "UsageDescription": "",
+    "Description": "A wooden bucket full of clear water.",
+    "UsageScript": "",
+    "Slug": "water_bucket"
+  },
+  {
+    "ID": 8,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 5,
+      "Dexterity": 5,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 999,
+    "Title": "Training Arrows",
+    "UsageDescription": "",
+    "Description": "Arrows used to train archers.",
+    "UsageScript": "",
+    "Slug": "gold_sword"
+  },
+  {
+    "ID": 9,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 8,
+      "Dexterity": 0,
+      "Intellect": 3,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Sword of Bloodlust",
+    "UsageDescription": "",
+    "Description": "A sword infused with the blood of the innocent.",
+    "UsageScript": "",
+    "Slug": "bloodlust_sword"
+  },
+  {
+    "ID": 10,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 8,
+      "Dexterity": 0,
+      "Intellect": 5,
+      "Holy": 2,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 0,
+    "MaxStackSize": 1,
+    "Title": "Blessed Sword",
+    "UsageDescription": "",
+    "Description": "Your training sword shimmers with a holy quality.",
+    "UsageScript": "",
+    "Slug": "blessed_sword"
+  },
+  {
+    "ID": 11,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Demon Skull",
+    "UsageDescription": "Boosts magic damage based on magic level. Not worn, just carried in inventory.",
+    "Description": "This skull was stolen from the sanctuary and radiates dark magical energy.",
+    "UsageScript": "",
+    "Slug": "demon_skull"
+  },
+  {
+    "ID": 12,
+    "Type": 1,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 10,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 2,
+    "MaxStackSize": 1,
+    "Title": "Potion of Life",
+    "UsageDescription": "Heals target 100% of health. Is needed for healing certain NPCs in Karma Quests.",
+    "Description": "This skull was stolen from the sanctuary and radiates dark magical energy.",
+    "UsageScript": "target.Health = target.MaxHealth;",
+    "Slug": "potion_of_life"
+  },
+  {
+    "ID": 13,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Town gate Key",
+    "UsageDescription": "Opens the town gate.",
+    "Description": "This key will open the town gate.",
+    "UsageScript": "",
+    "Slug": "town_gate_key"
+  },
+  {
+    "ID": 14,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Cave Keystone",
+    "UsageDescription": "Opens the cave wall.",
+    "Description": "This keystone will open the cave wall.",
+    "UsageScript": "",
+    "Slug": "cave_keystone"
+  },
+  {
+    "ID": 15,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Forest Keystone",
+    "UsageDescription": "Opens a passageway in the forest.",
+    "Description": "This key opens the passageway in the Nightfall Forest.",
+    "UsageScript": "",
+    "Slug": "forest_keystone"
+  },
+  {
+    "ID": 16,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Valley Keystone",
+    "UsageDescription": "Opens the wall in the valley.",
+    "Description": "This keystone opens the wall in The Valley.",
+    "UsageScript": "",
+    "Slug": "valley_keystone"
+  },
+  {
+    "ID": 17,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sigil of Gratitude 1",
+    "UsageDescription": "First gratitude sigil. Obtain both for optional help in final boss fight.",
+    "Description": "A sigil given to me by *INSERT NAME*.",
+    "UsageScript": "",
+    "Slug": "gratitude1"
+  },
+  {
+    "ID": 18,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sigil of Gratitude 2",
+    "UsageDescription": "Second gratitude sigil. Obtain bith for optional help in final boss fight.",
+    "Description": "A sigil given to me by *INSERT NAME*.",
+    "UsageScript": "",
+    "Slug": "gratitude2"
+  },
+  {
+    "ID": 19,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Demon Skull",
+    "UsageDescription": "Boosts magic damage based on magic level. Not worn, just carried in inventory.",
+    "Description": "This skull was stolen from the sanctuary and radiates dark magical energy.",
+    "UsageScript": "",
+    "Slug": "demon_skull"
+  },
+  {
+    "ID": 20,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Telekinesis Grimoire Page",
+    "UsageDescription": "Unlocks telekinesis spell.",
+    "Description": "I can add this to my grimoire to learn a new spell.",
+    "UsageScript": "",
+    "Slug": "tele_page"
+  },
+  {
+    "ID": 21,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Flesh Heal Grimoire Page",
+    "UsageDescription": "Unlocks flesh heal spell.",
+    "Description": "I can add this to my grimoire to learn a new spell.",
+    "UsageScript": "",
+    "Slug": "flesh_heal_page"
+  },
+  {
+    "ID": 22,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Fire Spell Grimoire Page",
+    "UsageDescription": "Unlocks fire spell.",
+    "Description": "I can add this to my grimoire to learn a new spell.",
+    "UsageScript": "",
+    "Slug": "fire_page"
+  },
+  {
+    "ID": 23,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Water Grimoire Page",
+    "UsageDescription": "Unlocks water spell.",
+    "Description": "I can add this to my grimoire to learn a new spell.",
+    "UsageScript": "",
+    "Slug": "water_page"
+  },
+  {
+    "ID": 24,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 15,
+      "Dexterity": 0,
+      "Intellect": 7,
+      "Holy": 2,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Flaming Blade",
+    "UsageDescription": "",
+    "Description": "A sword imbued with fire. This can burn through light foliage.",
+    "UsageScript": "",
+    "Slug": "flaming_sword"
+  },
+  {
+    "ID": 25,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 20,
+      "Dexterity": 5,
+      "Intellect": 12,
+      "Holy": 5,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Enchanted Sword",
+    "UsageDescription": "",
+    "Description": "This sword flows with holy energy.",
+    "UsageScript": "",
+    "Slug": "enchanted_sword"
+  },
+  {
+    "ID": 26,
+    "Type": 0,
+    "Rarity": 4,
+    "Stats": {
+      "Strenght": 30,
+      "Dexterity": 10,
+      "Intellect": 20,
+      "Holy": 10,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Holy Sword",
+    "UsageDescription": "",
+    "Description": "This sword is forged of pure silver and is blessed by a higher power.",
+    "UsageScript": "",
+    "Slug": "holy_sword"
+  },
+  {
+    "ID": 27,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 6,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Training Helm",
+    "UsageDescription": "",
+    "Description": "This helmet is worn by trainee guards.",
+    "UsageScript": "",
+    "Slug": "training_helm"
+  },
+  {
+    "ID": 28,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 12,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Training Chestplate",
+    "UsageDescription": "",
+    "Description": "This armour is worn by trainee guards.",
+    "UsageScript": "",
+    "Slug": "training_chest"
+  },
+  {
+    "ID": 29,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 6,
+      "Intellect": 2,
+      "Holy": 0,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Worn Leather Coif",
+    "UsageDescription": "",
+    "Description": "A coif worn by trainee archers.",
+    "UsageScript": "",
+    "Slug": "training_coif"
+  },
+  {
+    "ID": 30,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 12,
+      "Intellect": 4,
+      "Holy": 0,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Worn Leather Tunic",
+    "UsageDescription": "",
+    "Description": "Comfortable armour worn by trainee archers.",
+    "UsageScript": "",
+    "Slug": "worn_tunic"
+  },
+  {
+    "ID": 31,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 6,
+      "Holy": 0,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sanctuary Hood",
+    "UsageDescription": "",
+    "Description": "This hood was found in the sanctuary. It has magical properties.",
+    "UsageScript": "",
+    "Slug": "sanc_hood"
+  },
+  {
+    "ID": 32,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 12,
+      "Holy": 0,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sanctuary Robe",
+    "UsageDescription": "",
+    "Description": "These robes were found in the sanctuary. They have magical properties.",
+    "UsageScript": "",
+    "Slug": "sanc_robes"
+  },
+  {
+    "ID": 33,
+    "Type": 1,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 1,
+    "MaxStackSize": 16,
+    "Title": "Health Potion",
+    "UsageDescription": "Heals 50 health",
+    "Description": "A vitality potion. Heals 50 health.",
+    "UsageScript": "self.Health+=50;",
+    "Slug": "health_potion"
+  },
+  {
+    "ID": 34,
+    "Type": 1,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Poisonous Potion",
+    "UsageDescription": "Poisons targeted enemy. -15 health each turn.",
+    "Description": "A very poisonous potion. Poison damages enemy for 15 health each turn.",
+    "UsageScript": "target.Health -=15;",
+    "Slug": "poison_potion"
+  },
+  {
+    "ID": 35,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 10,
+    "Title": "Military Sword",
+    "UsageDescription": "",
+    "Description": "One of the missing swords from the military weapons cache.",
+    "UsageScript": "",
+    "Slug": "military_sword"
+  },
+  {
+    "ID": 36,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Special Cache Key",
+    "UsageDescription": "Opens Special Cache.",
+    "Description": "This key opens the special military weapon cache.",
+    "UsageScript": "",
+    "Slug": "cache_key"
+  },
+  {
+    "ID": 37,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 20,
+    "Title": "Chest Key",
+    "UsageDescription": "Opens standard chests across world.",
+    "Description": "A silver key. You should try to find a chest to use it on.",
+    "UsageScript": "",
+    "Slug": "chest_key"
+  },
+  {
+    "ID": 38,
+    "Type": 2,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 5,
+    "Title": "Special Key",
+    "UsageDescription": "Opens Karma Chests.",
+    "Description": "A glowing chest key given to you for helping people in need.",
+    "UsageScript": "",
+    "Slug": "special_key"
+  },
+  {
+    "ID": 39,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 10,
+      "Intellect": 10,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Oryll's Longbow",
+    "UsageDescription": "",
+    "Description": "A powerful longbow stolen from the great archer Oryll.",
+    "UsageScript": "",
+    "Slug": "oryll_bow"
+  },
+  {
+    "ID": 40,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Oryll's Leather Tunic",
+    "UsageDescription": "",
+    "Description": "A durable leather tunic stolen from Oryll.",
+    "UsageScript": "",
+    "Slug": "oryll_tunic"
+  },
+  {
+    "ID": 41,
+    "Type": 1,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 15,
+    "Title": "Bandage",
+    "UsageDescription": "Heals 5 health",
+    "Description": "Heals a small amount of health.",
+    "UsageScript": "target.Health+=5;",
+    "Slug": "bandage"
+  },
+  {
+    "ID": 42,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Healing Remedy",
+    "UsageDescription": "",
+    "Description": "A special potion given to me by the alchemist in town.",
+    "UsageScript": "",
+    "Slug": "heal_remedy"
+  },
+  {
+    "ID": 43,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 9,
+      "Dexterity": 0,
+      "Intellect": 3,
+      "Holy": 1,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Oth's Helm",
+    "UsageDescription": "",
+    "Description": "A strong helmet stolen from Oth.",
+    "UsageScript": "",
+    "Slug": "oth_helm"
+  },
+  {
+    "ID": 44,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Cat Food",
+    "UsageDescription": "",
+    "Description": "I should really feed Otwin's cat.",
+    "UsageScript": "",
+    "Slug": "cat_foot"
+  },
+  {
+    "ID": 45,
+    "Type": 1,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Trainee Blast Grimoire Page",
+    "UsageDescription": "",
+    "Description": "I should add this page to my grimoire to learn the spell.",
+    "UsageScript": "",
+    "Slug": "train_blast_page"
+  },
+  {
+    "ID": 46,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 5,
+      "Dexterity": 9,
+      "Intellect": 10,
+      "Holy": 2,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Otwin's Splashback Staff",
+    "UsageDescription": "",
+    "Description": "Otwin's great staff. This staff damages enemies that attack you.",
+    "UsageScript": "",
+    "Slug": "otwin_staff"
+  },
+  {
+    "ID": 47,
+    "Type": 2,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Shed Key",
+    "UsageDescription": "",
+    "Description": "Opens the farmer's shed.",
+    "UsageScript": "",
+    "Slug": "shed_key"
+  },
+  {
+    "ID": 48,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 10,
+    "Title": "Happ Leaves",
+    "UsageDescription": "",
+    "Description": "Orvelle can use these leaves to make bandages.",
+    "UsageScript": "",
+    "Slug": "happ_leaf"
+  },
+  {
+    "ID": 49,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 12,
+      "Dexterity": 0,
+      "Intellect": 9,
+      "Holy": 2,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Royal Helmet",
+    "UsageDescription": "",
+    "Description": "A helmet worn by moterately decorated warriors.",
+    "UsageScript": "",
+    "Slug": "royal_helm"
+  },
+  {
+    "ID": 50,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 15,
+      "Dexterity": 0,
+      "Intellect": 8,
+      "Holy": 2,
+      "EquipmentType": 3
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Royal Platelegs",
+    "UsageDescription": "",
+    "Description": "Platelegs worn by moterately decorated warriors.",
+    "UsageScript": "",
+    "Slug": "royal_legs"
+  },
+  {
+    "ID": 51,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 9,
+      "Dexterity": 0,
+      "Intellect": 5,
+      "Holy": 2,
+      "EquipmentType": 4
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Royal Boots",
+    "UsageDescription": "",
+    "Description": "Boots worn by moterately decorated warriors.",
+    "UsageScript": "",
+    "Slug": "royal_boots"
+  },
+  {
+    "ID": 52,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 13,
+      "Dexterity": 0,
+      "Intellect": 5,
+      "Holy": 1,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sword of Repentance",
+    "UsageDescription": "",
+    "Description": "You learnt the error of your ways...",
+    "UsageScript": "",
+    "Slug": "sword_of_repentance"
+  },
+  {
+    "ID": 53,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 6,
+      "Dexterity": 15,
+      "Intellect": 12,
+      "Holy": 1,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Imbued Shortbow",
+    "UsageDescription": "",
+    "Description": "This shortbow has been imbued with ancient magic.",
+    "UsageScript": "",
+    "Slug": "imbued_shortbow"
+  },
+  {
+    "ID": 54,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 4,
+      "Dexterity": 12,
+      "Intellect": 12,
+      "Holy": 0,
+      "EquipmentType": 3
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Swift Leather Chaps",
+    "UsageDescription": "",
+    "Description": "These chaps are light and durable, giving you more freedom in battle.",
+    "UsageScript": "",
+    "Slug": "swift_leather_chaps"
+  },
+  {
+    "ID": 55,
+    "Type": 1,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 9,
+      "Dexterity": 5,
+      "Intellect": 2,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 999,
+    "Title": "Moosebone Arrows",
+    "UsageDescription": "",
+    "Description": "Arrows tipped with moose bone.",
+    "UsageScript": "",
+    "Slug": "moosebone_arrow"
+  },
+  {
+    "ID": 56,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 4,
+      "Dexterity": 4,
+      "Intellect": 17,
+      "Holy": 4,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Goldleaf Robe",
+    "UsageDescription": "",
+    "Description": "A special robe made of the finest goldleaf in the kingdom.",
+    "UsageScript": "",
+    "Slug": "goldleaf_robe"
+  },
+  {
+    "ID": 57,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 2,
+      "Dexterity": 3,
+      "Intellect": 18,
+      "Holy": 3,
+      "EquipmentType": 3
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Goldleaf Skirt",
+    "UsageDescription": "",
+    "Description": "A special skirt made of the finest goldleaf in the kingdom.",
+    "UsageScript": "",
+    "Slug": "goldleaf_skirt"
+  },
+  {
+    "ID": 58,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 1,
+      "Dexterity": 1,
+      "Intellect": 13,
+      "Holy": 2,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Goldleaf Hood",
+    "UsageDescription": "",
+    "Description": "A special hood made of the finest goldleaf in the kingdom.",
+    "UsageScript": "",
+    "Slug": "goldleaf_hood"
+  },
+  {
+    "ID": 59,
+    "Type": 2,
+    "Rarity": 4,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Elder Orb",
+    "UsageDescription": "",
+    "Description": "This orb is hot with holy magic that was thought to only exist in ancient fables.",
+    "UsageScript": "",
+    "Slug": "elder_orb"
+  },
+  {
+    "ID": 60,
+    "Type": 2,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Firebird Grimoire Page",
+    "UsageDescription": "",
+    "Description": "I should add this page to my grimoire to learn the spell.",
+    "UsageScript": "",
+    "Slug": "firebird_page"
+  },
+  {
+    "ID": 61,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 2,
+      "Dexterity": 9,
+      "Intellect": 21,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Nature's Staff",
+    "UsageDescription": "",
+    "Description": "Ezine dropped this powerful staff in the nightfall Forest after he was killed.",
+    "UsageScript": "",
+    "Slug": "nature_staff"
+  },
+  {
+    "ID": 62,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 22,
+      "Dexterity": 2,
+      "Intellect": 13,
+      "Holy": 1,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Wavebound Chestplate",
+    "UsageDescription": "",
+    "Description": "A strong water-imbued chestplate.",
+    "UsageScript": "",
+    "Slug": "wavebound_chest"
+  },
+  {
+    "ID": 63,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 20,
+      "Dexterity": 4,
+      "Intellect": 14,
+      "Holy": 1,
+      "EquipmentType": 3
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Wavebound Platelegs",
+    "UsageDescription": "",
+    "Description": "A strong pair of platelegs which have been imbued with water magic.",
+    "UsageScript": "",
+    "Slug": "wavebound_legs"
+  },
+  {
+    "ID": 64,
+    "Type": 1,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 999,
+    "Title": "Razorleaf Arrows",
+    "UsageDescription": "",
+    "Description": "Razor sharp arrows made from special leaves found deep in the Nightfall Forest.",
+    "UsageScript": "",
+    "Slug": "razorleaf_arrow"
+  },
+  {
+    "ID": 65,
+    "Type": 2,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Archer's Stone",
+    "UsageDescription": "",
+    "Description": "A magical crystal that increases your confidence with a bow.",
+    "UsageScript": "",
+    "Slug": "archer_stone"
+  },
+  {
+    "ID": 66,
+    "Type": 0,
+    "Rarity": 1,
+    "Stats": {
+      "Strenght": 3,
+      "Dexterity": 16,
+      "Intellect": 12,
+      "Holy": 0,
+      "EquipmentType": 4
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Magic Root Boots",
+    "UsageDescription": "",
+    "Description": "Boots made from magical tree roots.",
+    "UsageScript": "",
+    "Slug": "magic_root_boots"
+  },
+  {
+    "ID": 67,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 1,
+      "Dexterity": 19,
+      "Intellect": 21,
+      "Holy": 1,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Spiritleaf Coif",
+    "UsageDescription": "",
+    "Description": "A specially woven coif made from sacred leaves.",
+    "UsageScript": "",
+    "Slug": "spiritleaf_coif"
+  },
+  {
+    "ID": 68,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Hurricane Grimoire Page",
+    "UsageDescription": "",
+    "Description": "I should add this page to my grimoire to learn the spell.",
+    "UsageScript": "",
+    "Slug": "hurricane_page"
+  },
+  {
+    "ID": 69,
+    "Type": 0,
+    "Rarity": 4,
+    "Stats": {
+      "Strenght": 13,
+      "Dexterity": 16,
+      "Intellect": 27,
+      "Holy": 10,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Sanctuary Staff",
+    "UsageDescription": "",
+    "Description": "A special staff given to the apprentice Mage Elle by Otwin.",
+    "UsageScript": "",
+    "Slug": "sanc_staff"
+  },
+  {
+    "ID": 70,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 27,
+      "Dexterity": 3,
+      "Intellect": 19,
+      "Holy": 4,
+      "EquipmentType": 0
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Paladin's Helm",
+    "UsageDescription": "",
+    "Description": "A helmet worn by only the bravest warriors.",
+    "UsageScript": "",
+    "Slug": "paladin_helm"
+  },
+  {
+    "ID": 71,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 31,
+      "Dexterity": 2,
+      "Intellect": 18,
+      "Holy": 6,
+      "EquipmentType": 1
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Paladin's Chestplate",
+    "UsageDescription": "",
+    "Description": "A chestplate worn by only the bravest warriors.",
+    "UsageScript": "",
+    "Slug": "paladin_chest"
+  },
+  {
+    "ID": 72,
+    "Type": 0,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Grappling Hook",
+    "UsageDescription": "",
+    "Description": "I could fire this towards the stranded man in the Outskirt Valley to help him down.",
+    "UsageScript": "",
+    "Slug": "grappling_hook"
+  },
+  {
+    "ID": 73,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Valley Shed Key",
+    "UsageDescription": "",
+    "Description": "This opens a shed in the Outskirt Valley.",
+    "UsageScript": "",
+    "Slug": "v_shed_key"
+  },
+  {
+    "ID": 74,
+    "Type": 0,
+    "Rarity": 4,
+    "Stats": {
+      "Strenght": 19,
+      "Dexterity": 31,
+      "Intellect": 17,
+      "Holy": 9,
+      "EquipmentType": 4
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Kingfisher Boots",
+    "UsageDescription": "",
+    "Description": "Archer boots blessed with holy water.",
+    "UsageScript": "",
+    "Slug": "kingfisher_boots"
+  },
+  {
+    "ID": 75,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 36,
+      "Dexterity": 7,
+      "Intellect": 29,
+      "Holy": 1,
+      "EquipmentType": 2
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Blackflame Sword",
+    "UsageDescription": "",
+    "Description": "A fiery dark sword meant to cause destruction and chaos.",
+    "UsageScript": "",
+    "Slug": "blackflame_sword"
+  },
+  {
+    "ID": 76,
+    "Type": 2,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 4,
+    "MaxStackSize": 1,
+    "Title": "Light Crystal",
+    "UsageDescription": "Damages target by 90 health",
+    "Description": "A chestplate worn by only the bravest warriors.",
+    "UsageScript": "target.Health-=90;",
+    "Slug": "light_crystal"
+  },
+  {
+    "ID": 77,
+    "Type": 0,
+    "Rarity": 2,
+    "Stats": {
+      "Strenght": 29,
+      "Dexterity": 2,
+      "Intellect": 12,
+      "Holy": 0,
+      "EquipmentType": 4
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Executioner Boots",
+    "UsageDescription": "",
+    "Description": "Heavy, dark boots worn by monsterous people.",
+    "UsageScript": "",
+    "Slug": "executioner_boots"
+  },
+  {
+    "ID": 78,
+    "Type": 0,
+    "Rarity": 3,
+    "Stats": {
+      "Strenght": 30,
+      "Dexterity": 1,
+      "Intellect": 14,
+      "Holy": 0,
+      "EquipmentType": 3
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Shai's Platelegs",
+    "UsageDescription": "",
+    "Description": "Platelegs worn by the evil elite guard Shai.",
+    "UsageScript": "",
+    "Slug": "shai_platelegs"
+  },
+  {
+    "ID": 79,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Cell Key",
+    "UsageDescription": "",
+    "Description": "This should unlock a prisoner cell in the Dark Tower.",
+    "UsageScript": "",
+    "Slug": "cell_key"
+  },
+  {
+    "ID": 80,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Dark platelegs",
+    "UsageDescription": "",
+    "Description": "Could make quite a good disguise...",
+    "UsageScript": "",
+    "Slug": "dark_platelegs"
+  },
+  {
+    "ID": 81,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Dark Helm",
+    "UsageDescription": "",
+    "Description": "Could make quite a good disguise...",
+    "UsageScript": "",
+    "Slug": "dark_helm"
+  },
+  {
+    "ID": 82,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Dark Platebody",
+    "UsageDescription": "",
+    "Description": "Could make quite a good disguise...",
+    "UsageScript": "",
+    "Slug": "dark_platebody"
+  },
+  {
+    "ID": 83,
+    "Type": 2,
+    "Rarity": 0,
+    "Stats": {
+      "Strenght": 0,
+      "Dexterity": 0,
+      "Intellect": 0,
+      "Holy": 0,
+      "EquipmentType": 5
+    },
+    "TargetingLimit": 5,
+    "MaxStackSize": 1,
+    "Title": "Dark Boots",
+    "UsageDescription": "",
+    "Description": "Could make quite a good disguise...",
+    "UsageScript": "",
+    "Slug": "dark_boots"
+  }
+]

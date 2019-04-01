@@ -1,0 +1,66 @@
+{
+    "array": [
+        {
+            "Tree_ID": 0,
+            "Skill_ID": 0,
+            "Skill_Dependency": [],
+            "IsUnlocked": true,
+            "Cost": 0
+        },
+        {
+            "Tree_ID": 1,
+            "Skill_ID": 5,
+            "Skill_Dependency": [
+                0
+            ],
+            "IsUnlocked": false,
+            "Cost": 1
+        },
+        {
+            "Tree_ID": 2,
+            "Skill_ID": 4,
+            "Skill_Dependency": [
+                0
+            ],
+            "IsUnlocked": false,
+            "Cost": 3
+        },
+        {
+            "Tree_ID": 3,
+            "Skill_ID": 6,
+            "Skill_Dependency": [
+                2
+            ],
+            "IsUnlocked": false,
+            "Cost": 5
+        },
+        {
+            "Tree_ID": 4,
+            "Skill_ID": 8,
+            "Skill_Dependency": [
+                2
+            ],
+            "IsUnlocked": false,
+            "Cost": 8
+        },
+        {
+            "Tree_ID": 5,
+            "Skill_ID": 9,
+            "Skill_Dependency": [
+                1
+            ],
+            "IsUnlocked": false,
+            "Cost": 5
+        },
+        {
+            "Tree_ID": 6,
+            "Skill_ID": 7,
+            "Skill_Dependency": [
+                5,
+                4
+            ],
+            "IsUnlocked": false,
+            "Cost": 10
+        }
+    ]
+}

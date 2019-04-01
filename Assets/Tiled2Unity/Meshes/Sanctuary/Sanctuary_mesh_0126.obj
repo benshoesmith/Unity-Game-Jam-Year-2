@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Sanctuary_mesh_0126.obj'
+
+# Vertices (Count = 4)
+v -192 -176 0
+v -208 -176 0
+v -208 -160 0
+v -192 -160 0
+
+# Texture cooridinates (Count = 4)
+vt 0.8957832 0.2263578
+vt 0.912068 0.2263578
+vt 0.912068 0.2565319
+vt 0.8957832 0.2565319
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Sanctuary_mesh_0126
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+

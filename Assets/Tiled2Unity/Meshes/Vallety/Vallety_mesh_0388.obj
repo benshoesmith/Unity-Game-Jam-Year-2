@@ -1,0 +1,38 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Vallety_mesh_0388.obj'
+
+# Vertices (Count = 12)
+v -48 -224 0
+v -64 -224 0
+v -64 -208 0
+v -48 -208 0
+v -48 -240 0
+v -64 -240 0
+v -64 -224 0
+v -48 -224 0
+v -48 -256 0
+v -64 -256 0
+v -64 -240 0
+v -48 -240 0
+
+# Texture cooridinates (Count = 8)
+vt 0.2986758 0.6465099
+vt 0.3149606 0.6465099
+vt 0.3149606 0.676684
+vt 0.2986758 0.676684
+vt 0.2986758 0.6141905
+vt 0.3149606 0.6141905
+vt 0.3149606 0.6443646
+vt 0.2986758 0.6443646
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Vallety_mesh_0388
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/7/1 8/8/1
+f 9/1/1 10/2/1 11/3/1 12/4/1
+

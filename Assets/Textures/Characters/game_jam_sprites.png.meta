@@ -1,0 +1,1876 @@
+fileFormatVersion: 2
+guid: e8099dd7015665045a12aababfa4ec90
+timeCreated: 1525113282
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game_jam_sprites_0
+    21300002: game_jam_sprites_1
+    21300004: game_jam_sprites_2
+    21300006: game_jam_sprites_3
+    21300008: game_jam_sprites_4
+    21300010: game_jam_sprites_5
+    21300012: game_jam_sprites_6
+    21300014: game_jam_sprites_7
+    21300016: game_jam_sprites_8
+    21300018: game_jam_sprites_9
+    21300020: game_jam_sprites_10
+    21300022: game_jam_sprites_11
+    21300024: game_jam_sprites_12
+    21300026: game_jam_sprites_13
+    21300028: game_jam_sprites_14
+    21300030: game_jam_sprites_15
+    21300032: game_jam_sprites_16
+    21300034: game_jam_sprites_17
+    21300036: game_jam_sprites_18
+    21300038: game_jam_sprites_19
+    21300040: game_jam_sprites_20
+    21300042: game_jam_sprites_21
+    21300044: game_jam_sprites_22
+    21300046: game_jam_sprites_23
+    21300048: game_jam_sprites_24
+    21300050: game_jam_sprites_25
+    21300052: game_jam_sprites_26
+    21300054: game_jam_sprites_27
+    21300056: game_jam_sprites_28
+    21300058: game_jam_sprites_29
+    21300060: game_jam_sprites_30
+    21300062: game_jam_sprites_31
+    21300064: game_jam_sprites_32
+    21300066: game_jam_sprites_33
+    21300068: game_jam_sprites_34
+    21300070: game_jam_sprites_35
+    21300072: game_jam_sprites_36
+    21300074: game_jam_sprites_37
+    21300076: game_jam_sprites_38
+    21300078: game_jam_sprites_39
+    21300080: game_jam_sprites_40
+    21300082: game_jam_sprites_41
+    21300084: game_jam_sprites_42
+    21300086: game_jam_sprites_43
+    21300088: game_jam_sprites_44
+    21300090: game_jam_sprites_45
+    21300092: game_jam_sprites_46
+    21300094: game_jam_sprites_47
+    21300096: game_jam_sprites_48
+    21300098: game_jam_sprites_49
+    21300100: game_jam_sprites_50
+    21300102: game_jam_sprites_51
+    21300104: game_jam_sprites_52
+    21300106: game_jam_sprites_53
+    21300108: game_jam_sprites_54
+    21300110: game_jam_sprites_55
+    21300112: game_jam_sprites_56
+    21300114: game_jam_sprites_57
+    21300116: game_jam_sprites_58
+    21300118: game_jam_sprites_59
+    21300120: game_jam_sprites_60
+    21300122: game_jam_sprites_61
+    21300124: game_jam_sprites_62
+    21300126: game_jam_sprites_63
+    21300128: game_jam_sprites_64
+    21300130: game_jam_sprites_65
+    21300132: game_jam_sprites_66
+    21300134: game_jam_sprites_67
+    21300136: game_jam_sprites_68
+    21300138: game_jam_sprites_69
+    21300140: game_jam_sprites_70
+    21300142: game_jam_sprites_71
+    21300144: game_jam_sprites_72
+    21300146: game_jam_sprites_73
+    21300148: game_jam_sprites_74
+    21300150: game_jam_sprites_75
+    21300152: game_jam_sprites_76
+    21300154: game_jam_sprites_77
+    21300156: game_jam_sprites_78
+    21300158: game_jam_sprites_79
+    21300160: game_jam_sprites_80
+    21300162: game_jam_sprites_81
+    21300164: game_jam_sprites_82
+    21300166: game_jam_sprites_83
+    21300168: game_jam_sprites_84
+    21300170: game_jam_sprites_85
+    21300172: game_jam_sprites_86
+    21300174: game_jam_sprites_87
+    21300176: game_jam_sprites_88
+    21300178: game_jam_sprites_89
+    21300180: game_jam_sprites_90
+    21300182: game_jam_sprites_91
+    21300184: game_jam_sprites_92
+    21300186: game_jam_sprites_93
+    21300188: game_jam_sprites_94
+    21300190: game_jam_sprites_95
+    21300192: game_jam_sprites_96
+    21300194: game_jam_sprites_97
+    21300196: game_jam_sprites_98
+    21300198: game_jam_sprites_99
+    21300200: game_jam_sprites_100
+    21300202: game_jam_sprites_101
+    21300204: game_jam_sprites_102
+    21300206: game_jam_sprites_103
+    21300208: game_jam_sprites_104
+    21300210: game_jam_sprites_105
+    21300212: game_jam_sprites_106
+    21300214: game_jam_sprites_107
+    21300216: game_jam_sprites_108
+    21300218: game_jam_sprites_109
+    21300220: game_jam_sprites_110
+    21300222: game_jam_sprites_111
+    21300224: game_jam_sprites_112
+    21300226: game_jam_sprites_113
+    21300228: game_jam_sprites_114
+    21300230: game_jam_sprites_115
+    21300232: game_jam_sprites_116
+    21300234: game_jam_sprites_117
+    21300236: game_jam_sprites_118
+    21300238: game_jam_sprites_119
+    21300240: game_jam_sprites_120
+    21300242: game_jam_sprites_121
+    21300244: game_jam_sprites_122
+    21300246: game_jam_sprites_123
+    21300248: game_jam_sprites_124
+    21300250: game_jam_sprites_125
+    21300252: game_jam_sprites_126
+    21300254: game_jam_sprites_127
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game_jam_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 471
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 471
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 471
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 471
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 470
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 470
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 466
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 466
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 464
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 464
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 465
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 465
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 465
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 434
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 435
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 435
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 435
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 434
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 435
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 432
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 429
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 429
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 429
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 430
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 430
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 430
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 397
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 397
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 397
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 397
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 397
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 397
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 398
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 398
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 394
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 394
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 394
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 395
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 394
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 395
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 363
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 363
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 363
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 363
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 363
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 363
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 364
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 357
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 357
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 357
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 360
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 359
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 360
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 330
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 330
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 318
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 318
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 318
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 318
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 318
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 317
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 288
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 288
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 288
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 298
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 298
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 285
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 285
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 285
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 284
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 285
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 285
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 256
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 248
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 248
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 248
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 248
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 225
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 235
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 235
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 215
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 215
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 214
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 215
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 215
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 203
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 203
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 180
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 180
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 179
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 171
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 145
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 145
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 145
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 137
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 109
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_115
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 108
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_116
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 109
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_117
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 106
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_118
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_119
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 74
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_121
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_122
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_123
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 74
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_126
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_jam_sprites_127
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
